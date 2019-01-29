@@ -1,3 +1,3 @@
 Emoji
-:heart:
-:+1:
+- :heart:
+- :+1:
